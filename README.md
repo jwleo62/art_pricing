@@ -12,9 +12,6 @@ jupyter:
     name: python3
 ---
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jwleo62/art_pricing/HEAD?urlpath=%2Fvoila%2Frender%2Fwidget_work.ipynb)
-
-
 This is a personal web app that will be a reference to help set pricing for Kimberly's art with the following features.
 * enter shape, like rectangle, circle, heart, wings
 * enter size
