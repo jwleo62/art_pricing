@@ -6,4 +6,5 @@ dependencies:
   - notebook
   - ipywidgets
   - voila
+  - jupytext
 prefix: C:\git_projects\art_pricing\envs
